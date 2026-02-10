@@ -19,8 +19,9 @@ with a strong focus on sales analysis, KPIs, and data visualization.
 ### 📊 Excel – Retail Sales Analysis
 Análisis de ventas retail para identificar tendencias, métricas clave y oportunidades de mejora en el desempeño comercial.
 
-### 🧠 SQL – KPIs & Queries *(en progreso)*
-Consultas SQL para el cálculo de KPIs, agregaciones y análisis por segmentos.
+### 🧠 SQL & Power BI – Product Revenue Drivers Analysis
+
+Análisis de datos transaccionales enfocado en identificar los **principales impulsores del revenue** a nivel de productos y categorías, evaluando si el desempeño financiero está determinado por **precio, volumen de ventas o mezcla de productos**.
 
 ### 📈 Power BI – Interactive Dashboard *(en progreso)*
 Dashboard interactivo enfocado en ventas y desempeño financiero.
