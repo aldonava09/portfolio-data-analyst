@@ -9,4 +9,6 @@ Thumbs.db
 
 # Raw data
 data/raw/*.csv
+*.csv
+
 
