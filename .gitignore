@@ -10,5 +10,3 @@ Thumbs.db
 # Raw data
 data/raw/*.csv
 
-# Power BI files
-*.pbix
