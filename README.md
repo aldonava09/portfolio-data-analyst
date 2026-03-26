@@ -37,10 +37,12 @@ El objetivo fue identificar los impulsores estructurales del **riesgo y la renta
 End-to-end lending portfolio analysis based on historical Lending Club data.
 The objective was to identify structural drivers of **risk and profitability, evaluating risk-return efficiency by loan term and credit quality.**
 
-### 🐍 Python – Exploratory Data Analysis *(en progreso)*
-Análisis exploratorio de datos para detección de patrones y validación de hipótesis.
+### 🐍 SQL, Python & Power BI – E-Commerce Funnel Exploratory Data Analysis  
+Análisis exploratorio de datos enfocado en la **validación de la calidad de los datos**, **limpieza y detección de inconsistencias**, y análisis del comportamiento de usuarios dentro de un funnel de conversión.  
+Se identificaron **patrones de abandono**, **puntos de fricción en el recorrido del usuario** y se validó la lógica del funnel para asegurar consistencia analítica.  
 
-Exploratory Data Analysis project focused on pattern detection, advanced data cleaning, and hypothesis validation.
+Exploratory Data Analysis focused on **data quality validation**, **data cleaning and inconsistency detection**, and user behavior analysis within a conversion funnel.  
+Identified **drop-off patterns**, **user journey friction points**, and validated funnel logic to ensure reliable and actionable insights.  
 
 ---
 
