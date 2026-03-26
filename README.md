@@ -3,12 +3,12 @@
 ---
 
 ## 🇲🇽 Sobre mí
-Analista de datos junior enfocado en la toma de decisiones basada en datos.
+Analista de datos enfocado en la toma de decisiones basada en datos.
 He desarrollado proyectos prácticos utilizando Excel, SQL, Power BI y Python,
 con énfasis en análisis de ventas, KPIs y visualización de información.
 
 ## 🇺🇸 About Me
-Junior Data Analyst focused on data-driven decision making.
+Data Analyst focused on data-driven decision making.
 I have developed hands-on projects using Excel, SQL, Power BI, and Python,
 with a strong focus on sales analysis, KPIs, and data visualization.
 
